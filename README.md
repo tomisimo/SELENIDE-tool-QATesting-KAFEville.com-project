@@ -17,7 +17,15 @@ QA Manual testing tools
 
 QA Automation testing tools
 
-[IntlliJ IDE] - is an Integrated Development Environment (IDE) for development of projects code with Java programming language. [JAVA] - programming language for writing projects code. [MAVEN] - is a build tool for Java projects using a project object model (POM) for dependencies to frameworks, Maven manages a project's compilation, testing, and documentation. [SELENIUM WebDriver] - is a web framework that permits to execute cross-browser tests and used for automating web-based application testing to verify if performs expectedly. Allows to choose a programming language to create test scripts, code. [TestNG - (Test Next Generation)] is a Java-based testing framework that offer flexible features for unit, functional, integration, and end-to-end tests, enabling parallel execution, grouping, parameterization, and dependency management using annotations and XML configuration, making automated testing more efficient and easier to manage. [ChromeDriver] - is a separate executable that Selenium WebDriver uses to control Chrome browser to execute web-based application testing scripts.
+[IntlliJ IDE] - is an Integrated Development Environment (IDE) for development of projects code with Java programming language. 
+
+[JAVA] - programming language for writing projects code. 
+
+[MAVEN] - is a build tool for Java projects using a project object model (POM) for dependencies to frameworks, Maven manages a project's compilation, testing, and documentation. 
+
+[SELENIDE] - is a framework used for automating web-based application testing to verify if performs expectedly. Allows to choose a programming language to create test scripts, code. 
+
+[TestNG - (Test Next Generation)] is a Java-based testing framework that offer flexible features for unit, functional, integration, and end-to-end tests, enabling parallel execution, grouping, parameterization, and dependency management using annotations and XML configuration, making automated testing more efficient and easier to manage. 
 
 [MAVEN] - un sistem de build backoffice și administrare a proiectelor, scrise în Java pentru organizarea structurii proiectului și conectarea bibliotecilor, instrumentelor necesare până la implementarea rularii produsului software. Fișierele XML, denumite POM-uri (Project Object Model) contin informatii despre module si dependente si in acestea intre tag conectam instrumentele (Selenium, TestNG, Junit) la proiect. Maven stabileste si o structură fixa de proiect compusa din (src/main/java ; src/main/resources ; src/test/java).
 
